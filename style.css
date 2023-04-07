@@ -37,6 +37,38 @@ a {
   text-align: center;
 }
 
+b {
+  display: block;
+  text-decoration: none;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: coral;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  width: 500px;
+  text-align: center;
+}
+
+c {
+  display: block;
+  text-decoration: none;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: #f6ff7e;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  width: 500px;
+  text-align: center;
+}
+
 a:hover {
   background-color: #a9a9a9;
   color: white;
