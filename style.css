@@ -76,11 +76,36 @@ a:hover {
   color: white;
 }
 
+b:hover {
+  background-color: #a9a9a9;
+  color: white;
+}
+
 a:visited {
   color: black;
 }
 
+c:hover {
+  background-color: #a9a9a9;
+  color: white;
+}
+
+c:visited {
+  color: black;
+}
+
+b:visited {
+  color: black;
+}
 .weekly-links a:active {
+  background-color: #606060;
+}
+
+.weekly-links b:active {
+  background-color: #606060;
+}
+
+.weekly-links c:active {
   background-color: #606060;
 }
 
