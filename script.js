@@ -13,7 +13,7 @@ window.addEventListener('load', function() {
 
 document.addEventListener("DOMContentLoaded", function() {
   var cursor = document.createElement("img");
-  cursor.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/1024px-Cisco_logo.svg.png";
+  cursor.src = "https://www.transparentpng.com/thumb/mouse-cursor/lHbsTB-download-mouse-cursor-png.png";
   cursor.style.width = "50px";
   cursor.style.height = "50px";
   cursor.style.position = "fixed";
