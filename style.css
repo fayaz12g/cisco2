@@ -76,6 +76,7 @@ c {
 a:hover {
   background-color: #a9a9a9;
   color: white;
+  cursor: pointer;
   cursor: url('https://png.pngtree.com/png-clipart/20220220/original/pngtree-hand-cursor-icons-click-png-image_7271355.png'), auto;
 }
 
