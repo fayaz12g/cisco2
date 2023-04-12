@@ -32,17 +32,17 @@ a {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: black;
   background-color: #8fe376;
-  padding: 20px;
+  padding: 15px;
   margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50px;
-  width: 500px;
+  width: 400px;
   text-align: center;
-  box-shadow: 2px 2px 2px #333;
+  box-shadow: 10px 10px 2px #333;
 }
 
-b {
+a.coral {
   display: block;
   text-decoration: none;
   font-size: 40px;
@@ -56,10 +56,10 @@ b {
   border-radius: 50px;
   width: 500px;
   text-align: center;
-  box-shadow: 2px 2px 2px #333;
+  box-shadow: 5px 3px 2px #333;
 }
 
-c {
+a.yellow {
   display: block;
   text-decoration: none;
   font-size: 40px;
