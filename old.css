@@ -1,0 +1,258 @@
+p {
+  padding-top: 25px;
+}
+
+body {
+  background-image: url('https://cdn.govexec.com/media/featured/cisco_webcast_back.png');
+  font-family: Segoe UI;
+  cursor: none;
+}
+
+
+h1 {
+  font-size: 80px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-shadow: 2px 2px 2px #333;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  text-shadow: 2px 2px 2px #333;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: #8fe376;
+  padding: 15px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  width: 400px;
+  text-align: center;
+  box-shadow: 10px 10px 2px #333;
+}
+
+a.coral {
+  display: block;
+  text-decoration: none;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: coral;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  width: 500px;
+  text-align: center;
+  box-shadow: 5px 3px 2px #333;
+}
+
+a.yellow {
+  display: block;
+  text-decoration: none;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: #f6ff7e;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  width: 500px;
+  text-align: center;
+  box-shadow: 2px 2px 2px #333;
+}
+
+a:hover {
+  background-color: #a9a9a9;
+  color: white;
+  cursor: pointer;
+  cursor: url('https://png.pngtree.com/png-clipart/20220220/original/pngtree-hand-cursor-icons-click-png-image_7271355.png'), auto;
+}
+
+a.yellow:hover {
+  background-color: #a9a9a9;
+  color: white;
+  cursor: url('https://png.pngtree.com/png-clipart/20220220/original/pngtree-hand-cursor-icons-click-png-image_7271355.png'), auto;
+}
+
+a:visited {
+  color: black;
+}
+
+a.coral:hover {
+  background-color: #a9a9a9;
+  color: white;
+  cursor: url('https://png.pngtree.com/png-clipart/20220220/original/pngtree-hand-cursor-icons-click-png-image_7271355.png'), auto;
+}
+
+a.yellow:visited {
+  color: black;
+}
+
+a.coral:visited {
+  color: black;
+}
+.weekly-links a:active {
+  background-color: #606060;
+}
+
+.weekly-links b:active {
+  background-color: #606060;
+}
+
+.weekly-links c:active {
+  background-color: #606060;
+}
+
+#weekly-links {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#complete-by-monday {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 100px;
+}
+
+#optional {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 100px;
+}
+
+
+/* style.css */
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1em;
+  margin-top: 2em;
+}
+
+.oldcontainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2em;
+  margin-top: 2em;
+}
+
+.left-links {
+  text-align: center;
+}
+
+.right-links {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
+
+.top-right {
+  text-align: center;
+}
+
+.bottom-right {
+  text-align: center;
+}
+
+.middle-right {
+  text-align: center;
+}
+
+.far-right {
+  text-align: center;
+}
+
+
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 2px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  font-size: 16px;
+}
+
+
+.cursor {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+.cursor-image {
+  display: block;
+  position: fixed;
+  z-index: 9999;
+  pointer-events: none;
+  width: 50px;
+  height: 50px;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/1024px-Cisco_logo.svg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+a.coral {
+  display: block;
+  text-decoration: none;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: coral;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  width: 500px;
+  text-align: center;
+}
+
+a.yellow {
+  display: block;
+  text-decoration: none;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: #f6ff7e;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  width: 500px;
+  text-align: center;
+}
+
+.custom-cursor {
+  cursor: url('https://www.transparentpng.com/thumb/mouse-cursor/lHbsTB-download-mouse-cursor-png.png'), auto;
+}
+
+.zoom {
+    zoom: .75;
+    -moz-transform: scale(.75);
+    -moz-transform-origin: 0 0;
+}
