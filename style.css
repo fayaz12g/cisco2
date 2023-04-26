@@ -5,7 +5,8 @@ p {
 body {
   background-image: url('https://cdn.govexec.com/media/featured/cisco_webcast_back.png');
   font-family: Segoe UI;
-  cursor: none;
+  cursor: url('https://cdn.custom-cursor.com/db/pointer/32/3D_Glasses_PixelPointer.png'), auto;
+  zoom: 0.75
 }
 
 
@@ -84,13 +85,13 @@ a:hover {
   background-color: #a9a9a9;
   color: white;
   cursor: pointer;
-  cursor: url('https://png.pngtree.com/png-clipart/20220220/original/pngtree-hand-cursor-icons-click-png-image_7271355.png'), auto;
+  cursor: url('https://cdn.custom-cursor.com/db/pointer/32/3D_Glasses_PixelPointer.png'), auto;
 }
 
 a.yellow:hover {
   background-color: #a9a9a9;
   color: white;
-  cursor: url('https://png.pngtree.com/png-clipart/20220220/original/pngtree-hand-cursor-icons-click-png-image_7271355.png'), auto;
+  cursor: url('https://cdn.custom-cursor.com/db/pointer/32/3D_Glasses_PixelPointer.png'), auto;
 }
 
 a:visited {
@@ -100,7 +101,7 @@ a:visited {
 a.coral:hover {
   background-color: #a9a9a9;
   color: white;
-  cursor: url('https://png.pngtree.com/png-clipart/20220220/original/pngtree-hand-cursor-icons-click-png-image_7271355.png'), auto;
+  cursor: url('https://cdn.custom-cursor.com/db/pointer/32/3D_Glasses_PixelPointer.png'), auto;
 }
 
 a.yellow:visited {
