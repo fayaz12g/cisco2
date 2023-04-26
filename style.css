@@ -6,9 +6,7 @@ body {
   background-image: url('https://cdn.govexec.com/media/featured/cisco_webcast_back.png');
   font-family: Segoe UI;
   cursor: none;
-   -moz-transform: scale(.75);
-    -moz-transform-origin: 0 0;
-    zoom: .75
+    zoom: .7
 }
 
 
