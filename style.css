@@ -250,3 +250,9 @@ a.yellow {
 .custom-cursor {
   cursor: url('https://www.transparentpng.com/thumb/mouse-cursor/lHbsTB-download-mouse-cursor-png.png'), auto;
 }
+
+.zoom {
+    zoom: .75;
+    -moz-transform: scale(.75);
+    -moz-transform-origin: 0 0;
+}
