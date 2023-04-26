@@ -161,11 +161,6 @@ a.coral:visited {
   grid-template-rows: 1fr 1fr;
 }
 
-.nleft-links {
-  display: grid;
-  grid-template-rows: 1fr 1fr;
-}
-
 .top-right {
   text-align: center;
 }
@@ -173,6 +168,15 @@ a.coral:visited {
 .bottom-right {
   text-align: center;
 }
+
+.middle-right {
+  text-align: center;
+}
+
+.far-right {
+  text-align: center;
+}
+
 
 
 footer {
