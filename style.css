@@ -141,7 +141,7 @@ a.coral:visited {
 .container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 2em;
+  grid-gap: 1em;
   margin-top: 2em;
 }
 
