@@ -16,7 +16,7 @@ body {
 
 h1 {
   font-size: 40px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: bubble;
   color: white;
   text-align: center;
   margin-top: 0px;
@@ -260,4 +260,57 @@ a.yellow {
     zoom: .75;
     -moz-transform: scale(.75);
     -moz-transform-origin: 0 0;
+}
+
+.dropdown {
+  position: center;
+  display: center;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  
+}
+
+.dropdown:hover .dropdown-content {
+  display: flex;
+}
+
+.dropdown-content f {
+  color: black;
+  padding: 22px 2px;
+  text-decoration: none;
+  display: center;
+  text-decoration: none;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: coral;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  width: 500px;
+  text-align: center;
+  box-shadow: 5px 3px 2px #333;
+}
+
+.dropdown-content f:hover {
+  background-color: #f1f1f1;
+  text-decoration: none;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: coral;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  width: 500px;
+  text-align: center;
+  box-shadow: 5px 3px 2px #333;
 }
