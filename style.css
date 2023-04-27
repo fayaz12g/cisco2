@@ -275,7 +275,10 @@ a.yellow {
 }
 
 .dropdown:hover .dropdown-content {
-  display: flex;
+    display: block;
+  margin: auto;
+   width: 100%;
+  padding: 10px;
 }
 
 .dropdown-content f {
