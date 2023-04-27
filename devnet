@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <script src="script.js"></script>
+</head>
+
+</div>
+
+  <head>
+    <title>Co-Op Links</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Segoe+UI&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+ <body background="https://cdn.govexec.com/media/featured/cisco_webcast_back.png">
+  <p style="text-align:center;"><img src="https://cdn.freebiesupply.com/images/large/2x/cisco-logo-transparent.png" style="filter: drop-shadow(16px 16px 10px black)" alt="Cisco" class="center" width="200" height="100"></p>
+  <div class="dropdown">
+  <h1 class="heading">Co-Op Devnet Links</h1>
+  <div class="dropdown-content">
+    <a href="index.html">Weekly</a>
+    <a href="ccna.html">CCNA</a>
+    <a href="devnet.html">Devnet</a>
+  </div>
+</div>
+
+  <div class="container">
+    <div class="left-links">
+       <h2 style="color: coral;">April 24th - 28th</h2>
+       <a title="To be added" href="https://www.fayaz.one/cisco" class="coral" target="_blank">TBA</a>
+    </div>
+      <div class="middle">
+        <h2 style="color: #8fe376;">Friday Links</h2>
+        <a href="https://app.smartsheet.com/b/form/3c0a04272c7a4671a8813d3606c5acfc" target="_blank">Hi-Five Your Peers!</a>
+        <a href="https://workday.cisco.com/" target="_blank">Submit your Hours!</a>
+        <a href="https://teamspace.cisco.com" target="_blank">Teamspace Check-In</a>
+        <a href="https://app.smartsheet.com/b/form/eb30e7fd65dd40ed91b8120fc8069a34" target="_blank">Team Feedback</a>
+      </div>
+      <div class="far-right">
+        <h2 style="color: yellow;">Past Weeks</h2>
+        <a href="old.html" class="yellow" target="_blank">April 9th-15th</a>
+    </div>
+  </div>
+  <footer>
+    <p2>Made by Fayaz Shaikh</p2>
+  </footer>
+</body>
+
+</html>
