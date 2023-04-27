@@ -287,6 +287,7 @@ a.yellow {
   display: none;
   position: absolute;
   z-index: 1;
+  background: rgba(255, 122, 89, .5);
   
 }
 
