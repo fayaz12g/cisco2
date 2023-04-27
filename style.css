@@ -40,7 +40,7 @@ a {
   font-size: 40px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: black;
-  background-color: #8fe376;
+  background-color: lightblue;
   padding: 15px;
   margin-top: 30px;
   margin-left: auto;
@@ -51,6 +51,22 @@ a {
   box-shadow: 10px 10px 2px #333;
 }
 
+a.green {
+  display: block;
+  text-decoration: none;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: #8fe376;
+  padding: 15px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  width: 400px;
+  text-align: center;
+  box-shadow: 10px 10px 2px #333;
+}
 a.coral {
   display: block;
   text-decoration: none;
@@ -275,7 +291,7 @@ a.yellow {
 }
 
 .dropdown:hover .dropdown-content {
-    display: block;
+  display: block;
   margin: auto;
    width: 100%;
   padding: 10px;
@@ -283,7 +299,7 @@ a.yellow {
 
 .dropdown-content f {
   color: black;
-  padding: 22px 2px;
+  padding: 2px 2px;
   text-decoration: none;
   display: center;
   text-decoration: none;
@@ -291,12 +307,12 @@ a.yellow {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: black;
   background-color: coral;
-  padding: 20px;
-  margin-top: 30px;
+  padding: 10px;
+  margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50px;
-  width: 500px;
+  width: 200px;
   text-align: center;
   box-shadow: 5px 3px 2px #333;
 }
@@ -308,12 +324,12 @@ a.yellow {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: black;
   background-color: coral;
-  padding: 20px;
-  margin-top: 30px;
+  padding: 10px;
+  margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 50px;
-  width: 500px;
+  border-radius: 10px;
+  width: 200px;
   text-align: center;
   box-shadow: 5px 3px 2px #333;
 }
