@@ -105,13 +105,13 @@ a:hover {
   background-color: #a9a9a9;
   color: white;
   cursor: pointer;
-  cursor: url('https://cdn.custom-cursor.com/db/pointer/32/3D_Glasses_PixelPointer.png'), auto;
+  cursor: url('https://cdn.custom-cursor.com/db/8069/32/starter-space-pointer.png'), auto;
 }
 
 a.yellow:hover {
   background-color: #a9a9a9;
   color: white;
-  cursor: url('https://cdn.custom-cursor.com/db/pointer/32/3D_Glasses_PixelPointer.png'), auto;
+  cursor: url('https://cdn.custom-cursor.com/db/8069/32/starter-space-pointer.png'), auto;
 }
 
 a:visited {
@@ -121,7 +121,7 @@ a:visited {
 a.coral:hover {
   background-color: #a9a9a9;
   color: white;
-  cursor: url('https://cdn.custom-cursor.com/db/pointer/32/3D_Glasses_PixelPointer.png'), auto;
+  cursor: url('https://cdn.custom-cursor.com/db/8069/32/starter-space-pointer.png'), auto;
 }
 
 a.yellow:visited {
