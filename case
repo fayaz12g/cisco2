@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sat, 26 Jul 1997 05:00:00 GMT">
+  <script src="script.js"></script>
+</head>
+
+</div>
+
+  <head>
+    <title>Co-Op Links</title>
+    <link rel="icon" type="image/x-icon" href="https://www.cisco.com/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="style.css?v=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Segoe+UI&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+ <body background="https://cdn.govexec.com/media/featured/cisco_webcast_back.png">
+  <div class="dropdown">
+<p style="text-align:center;"><img src="https://cdn.freebiesupply.com/images/large/2x/cisco-logo-transparent.png" style="filter: drop-shadow(16px 16px 10px black)" alt="Cisco" class="center" width="200" height="100"></p>
+  <h1 class="heading">Co-Op Case Taking Links</h1>
+  <div class="dropdown-content">
+    <a href="index.html?v=1.0">Weekly</a>
+    <a class="hover" href="ccna.html?v=1.0">CCNA</a>
+    <a href="devnet.html?v=1.0">Devnet</a>
+    <a href="onboarding.html?v=1.0">Onboarding</a>
+  </div>
+</div>
+
+  <div class="container">
+    <div class="left-links">
+       <h2 style="color: coral;">Study</h2>
+       <a href="https://learningnetwork.cisco.com/s/ccna-exam-topics" class="coral" target="_blank">Review the Blueprint</a>
+       <a href="https://learning.oreilly.com/videos/ccna-200-301/9780136582700/" class="coral" target="_blank">Watch O'Reilly</a>
+       <a href="https://cisco.udemy.com/course/ccna-complete" class="coral" target="_blank">Watch Neil</a>
+    </div>
+      <div class="middle">
+        <h2 style="color: #8fe376;">Practice</h2>
+        <a href="https://create.kahoot.it/my-library/kahoots/all" class="green" target="_blank">Kahoot</a>
+        <a href="https://exams.boson.com/" class="green" target="_blank">Boson Exams</a>
+      </div>
+      <div class="far-right">
+        <h2 style="color: yellow;">Schedule</h2>
+        <a href="https://discountprogram.cloudapps.cisco.com/lcclsp/employeevoucherccna.do" class="yellow" target="_blank">Request Exam Voucher</a>
+        <a href="https://cp.certmetrics.com/cisco/en/schedule/schedule-exam" class="yellow" target="_blank">Schedule an Exam</a>
+    </div>
+  </div>
+  <footer>
+    <p2>Made by Fayaz Shaikh. To log in to Kahoot, the username and password is "group2ccna".</p2>
+  </footer>
+</body>
+
+</html>
