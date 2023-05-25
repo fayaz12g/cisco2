@@ -32,3 +32,19 @@ function formatDate(date) {
   return date.toLocaleDateString(undefined, options);
 }
 
+// Update the URL and hide the actual subpage
+function updateURL(subpage) {
+  var stateObj = { page: subpage };
+  history.pushState(stateObj, '', 'index.html');
+}
+
+// Listen for navigation events
+window.addEventListener('popstate', function(event) {
+  // Handle browser back/forward buttons
+  // You can perform actions based on the state object if needed
+  // For example, you can determine which subpage was navigated to and take appropriate action
+});
+
+// Usage example
+updateURL('subpage1');
+
