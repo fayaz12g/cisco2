@@ -31,3 +31,4 @@ function formatDate(date) {
   var options = { month: 'long', day: 'numeric' };
   return date.toLocaleDateString(undefined, options);
 }
+
