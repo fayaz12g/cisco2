@@ -10,3 +10,24 @@ window.addEventListener('load', function() {
   });
 });
 
+// Get the current date
+var currentDate = new Date();
+
+// Find the first day of the current week (Monday)
+var firstDay = new Date(currentDate.setDate(currentDate.getDate() - currentDate.getDay() + 1));
+
+// Find the last day of the current week (Friday)
+var lastDay = new Date(currentDate.setDate(currentDate.getDate() + 4));
+
+// Format the dates
+var firstDayFormatted = formatDate(firstDay);
+var lastDayFormatted = formatDate(lastDay);
+
+// Set the value of the textarea
+document.getElementById('week-range').value = firstDayFormatted + ' - ' + lastDayFormatted;
+
+// Function to format the date as "Month day"
+function formatDate(date) {
+  var options = { month: 'long', day: 'numeric' };
+  return date.toLocaleDateString(undefined, options);
+}
